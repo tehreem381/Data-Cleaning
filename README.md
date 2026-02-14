@@ -10,6 +10,7 @@ Fix inconsistent text data
 Work with character encodings
 
 Topics Covered
+
 1️⃣ Handling Missing Values
 Detecting missing data
 Removing rows/columns
@@ -36,12 +37,3 @@ Fixing corrupted text
 Standardizing text fields
 Fixing typos
 Cleaning categorical data
-
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib (basic visualization)
